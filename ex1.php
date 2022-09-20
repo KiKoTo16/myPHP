@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Demo </title>
+	<title> Exercise 1 </title>
 </head>
 <body>
+	<h1>Exercise 1</h1>
+	
 	<?php
 	$twinkle = "Twinkle";
 	$star = "star";

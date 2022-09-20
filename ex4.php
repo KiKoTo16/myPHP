@@ -4,6 +4,8 @@
 	<title> Exercise 4 </title>
 </head>
 <body>
+	<h1>Exercise 4</h1>
+
 	<?php
 	$name='Harry';
 	$age=28;
